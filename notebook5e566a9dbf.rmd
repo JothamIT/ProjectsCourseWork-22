@@ -17,4 +17,8 @@ list.files(path = "../input")
 library(tidyverse)
 
 
+```{r}
+install.packages('tidyverse')
+library(readr)
 ```
+my check out.
